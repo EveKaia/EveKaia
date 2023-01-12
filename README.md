@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jessie Grigsby (@EveKaia)
+- 👀 I’m interested in Frontend Development and Accessibility
+- 🌱 I’m currently learning ReactJS and AWS
+- 📫 How to reach me 
+  - [Mastodon](https://tech.lgbt/@evekaia)
+  - [Instagram](https://www.instagram.com/evekaia/)
+  - [Email](kaiablackthorne@gmail.com)
