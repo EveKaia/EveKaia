@@ -4,4 +4,3 @@
 - 📫 How to reach me 
   - [Mastodon](https://tech.lgbt/@evekaia)
   - [BlueSky](https://bsky.app/profile/jessiegrigsby.bsky.social)
-  - [Instagram](https://www.instagram.com/evekaia/)
